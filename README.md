@@ -1,4 +1,4 @@
 os_guess_number
 ===============
 
-Simple Operating Systems Project
+A multiple Client Server Application in Python while widget is made using wxPython  
